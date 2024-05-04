@@ -1,0 +1,27 @@
+.favorites__wrapper{
+    padding: 0px 100px 190px 100px;
+}
+.favorites__title{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    color: #000000;
+    padding-bottom: 63px;
+}
+.card__wrapper{
+    display: flex;
+    gap: 48px;
+}
+
+.subtitles{
+    font-family: "Poppins",sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    color: #000000;
+}

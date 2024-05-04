@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+button{
+    cursor: pointer;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,9 @@
+.brands__wrapper{
+    display: flex;
+    padding: 60px 170px;
+    background-color: #EBD96B;
+}
+.shops__wrapper{
+    display: flex;
+    gap: 120px;
+}

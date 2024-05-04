@@ -1,0 +1,57 @@
+footer{
+    max-width: 1920px ;
+    width: 100%;
+    background-color: black;
+    margin: 0 auto;
+}
+.footer__wrapper{
+    display: flex;
+    padding: 120px 0px 150px 100px;
+    
+}
+.fashion__title{
+font-family: Poppins;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.subtitle__footer{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #8E8E8E;
+    padding: 32px 0px 32px 0px;
+}
+.channel__link{
+    display: flex;
+    gap: 14px;
+}
+.footer__lists{
+    padding-left: 415px;
+    display: flex;
+    gap: 190px;
+}
+.footer__list{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px 0px;
+}
+.footer__list-link{
+    text-decoration: none;
+    color: #8E8E8E;
+    
+}
